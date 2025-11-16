@@ -1,2 +1,9 @@
-pip @ file:///C:/actions-runner/python-build-standalone/python-build-standalone/build/pip-24.3.1-py3-none-any.whl
-setuptools @ file:///C:/actions-runner/python-build-standalone/python-build-standalone/build/setuptools-80.9.0-py3-none-any.whl
+numpy
+mediapipe
+matplotlib
+librosa
+soundfile
+scipy
+pydub
+pyloudnorm
+soxr
